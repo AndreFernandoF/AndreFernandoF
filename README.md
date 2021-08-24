@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AndreFernandoF
 
 - 👀 I’m interested in Changing my career to be a Programmer because it's something that I've always wanted. 
-I've always worked in industry and I believe that this will help me because I've learned a lot how to work as team, helping people, getting better everyday, being polite even
+I've worked in industry around 14 years and I believe that this will help me because I've learned a lot how to work as team, helping people, getting better everyday, being polite even
 in difficult moments or under preassure, I've also learned that the communication is the secret to reach Goals in our professional life...
 
 - 🌱 I’m currently learning HTML and CSS and soon I will learn Python on the college,  ...
